@@ -1,7 +1,7 @@
 {
-  "name": "react-native-exponea-sdk",
+  "name": "@dannybies/react-native-exponea-sdk",
   "title": "React Native Exponea Sdk",
-  "version": "1.8.1",
+  "version": "1.9.0-rc.1",
   "description": "React native SDK for Exponea integration",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -38,10 +38,10 @@
   "readmeFilename": "README.md",
   "peerDependencies": {
     "react": "^17.0.2 || ^18.0.0",
-    "react-native": "<=0.73.6"
+    "react-native": "<=0.74.2"
   },
   "devDependencies": {
-    "@react-native/eslint-config": "^0.72.2",
+    "@react-native/eslint-config": "^0.74.84",
     "@rnx-kit/align-deps": "^2.0.1",
     "@types/jest": "29.5.10",
     "@types/react-native": "^0.66.12",
@@ -53,7 +53,7 @@
     "jest-config": "29.2.1",
     "prettier": "^2.8.4",
     "react": "18.2.0",
-    "react-native": "0.73.6",
+    "react-native": "0.74.2",
     "ts-jest": "29.1.1",
     "typescript": "4.8.4",
     "@babel/core": "^7.23.3",
