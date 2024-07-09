@@ -1,3 +1,7 @@
+> :warning: **This is an unofficial fork**: Be very careful in verifying that this package works for you!
+
+This fork updates React-Native to version 0.74.2. In the future I may add support for the expo managed workflow.
+
 # React Native Exponea SDK
 React Native Exponea SDK allows your application to interact with the [Exponea](https://exponea.com/) Customer Data & Experience Platform. Exponea empowers B2C marketers to raise conversion rates, improve acquisition ROI, and maximize customer lifetime value.
 
